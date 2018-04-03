@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "TecBiz Lojista",
+  "short_name": "TecBiz Lojista",
+  "version": "com.tecbiz.autorizador",
+  "description": "Aplicativo destinado a rede conveniada TecBiz para realização de autorizações, estornos e consultas.",
+  "author": "Equipe TecBiz",
+  "icons": [],
+  "start_url": "index.html"
+}
