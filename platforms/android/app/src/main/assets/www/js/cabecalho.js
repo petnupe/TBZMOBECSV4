@@ -1,1 +1,0 @@
-document.write('<div data-role="header" data-position="inline"><h1>TecBiz Lojista</h1></div>');
