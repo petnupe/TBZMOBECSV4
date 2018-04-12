@@ -11,7 +11,7 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="phonegap-version" value="cli-7.0.1" />
     <platform name="ios">
-                <icon height="29"   platform="ios" src="www/res/icon/ios/icon-Small.png" width="29" />
+        <icon height="29"   platform="ios" src="www/res/icon/ios/icon-Small.png" width="29" />
         <icon height="40"   platform="ios" src="www/res/icon/ios/icon-Small-40.png" width="40" />
         <icon height="50"   platform="ios" src="www/res/icon/ios/icon-Small-50.png" width="50" />
         <icon height="57"   platform="ios" src="www/res/icon/ios/icon.png" width="57" />
